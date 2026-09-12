@@ -1,0 +1,642 @@
+[
+  {
+    "class": "광전사",
+    "builds": [
+      {
+        "id": 1,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["srbd"],
+          "armor": ["I0NH"],
+          "headgear": ["I0NA"],
+          "accessory": ["I0NM"],
+          "wings": ["I0OK"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "블래스터",
+    "builds": [
+      {
+        "id": 2,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0N6"],
+          "armor": ["I0NH"],
+          "headgear": ["I0NF"],
+          "accessory": ["I0P5"],
+          "wings": ["ram3"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "성전사",
+    "builds": [
+      {
+        "id": 3,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0P4", "pams"],
+          "armor": ["I0NH"],
+          "headgear": ["I0ON"],
+          "accessory": ["I0PP"],
+          "wings": ["I0AU"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "다크나이트(힘)",
+    "builds": [
+      {
+        "id": 4,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0OC"],
+          "armor": ["I0NH"],
+          "headgear": ["I0NG"],
+          "accessory": ["I0PP"],
+          "wings": ["I0AU"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "다크나이트(지능)",
+    "builds": [
+      {
+        "id": 4,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0N9"],
+          "armor": ["I0IP"],
+          "headgear": ["I0NE"],
+          "accessory": ["I0NL"],
+          "wings": ["I0JW"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "격투가",
+    "builds": [
+      {
+        "id": 5,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0P4", "pams"],
+          "armor": ["I0NH"],
+          "headgear": ["I0ON"],
+          "accessory": ["I0PP"],
+          "wings": ["I0NN"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "기사",
+    "builds": [
+      {
+        "id": 6,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0OC"],
+          "armor": ["I0OW"],
+          "headgear": ["I0NG"],
+          "accessory": ["I0PP"],
+          "wings": ["I0OK"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "랜서",
+    "builds": [
+      {
+        "id": 7,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0P4", "pams"],
+          "armor": ["I0NH"],
+          "headgear": ["I0ON"],
+          "accessory": ["I0PP"],
+          "wings": ["ram3"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "라이트시커",
+    "builds": [
+      {
+        "id": 8,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0P4", "pams"],
+          "armor": ["I0NH"],
+          "headgear": ["I0ON"],
+          "accessory": ["I0PP"],
+          "wings": ["I0AU"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "행상인",
+    "builds": [
+      {
+        "id": 9,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0NR"],
+          "armor": ["I0OD"],
+          "headgear": ["I0NB"],
+          "accessory": ["asbl"],
+          "wings": ["I0JW"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "팔라딘(힘)",
+    "builds": [
+      {
+        "id": 10,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0OC"],
+          "armor": ["I0NH"],
+          "headgear": ["I0ON"],
+          "accessory": ["I0OL"],
+          "wings": ["I0NN"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "팔라딘(지능)",
+    "builds": [
+      {
+        "id": 10,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0NQ"],
+          "armor": ["I0OG"],
+          "headgear": ["I0IS"],
+          "accessory": ["I0NK"],
+          "wings": ["I0JW"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "마검사",
+    "builds": [
+      {
+        "id": 11,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0OC"],
+          "armor": ["I0NH"],
+          "headgear": ["I0NG", "I0ON"],
+          "accessory": ["I0PP"],
+          "wings": ["I0AU"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "어쌔신",
+    "builds": [
+      {
+        "id": 12,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0MZ"],
+          "armor": ["I0OW"],
+          "headgear": ["I0NC"],
+          "accessory": ["I0P5"],
+          "wings": ["ram3"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "보우마스터",
+    "builds": [
+      {
+        "id": 13,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0IQ"],
+          "armor": ["I0OW"],
+          "headgear": ["I0NC"],
+          "accessory": ["I0PP"],
+          "wings": ["ram3"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "거너",
+    "builds": [
+      {
+        "id": 14,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0N6"],
+          "armor": ["I0OW"],
+          "headgear": ["I0NC"],
+          "accessory": ["I0OL"],
+          "wings": ["ram3"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "허밋",
+    "builds": [
+      {
+        "id": 15,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0M1"],
+          "armor": ["I0OD", "I0OG"],
+          "headgear": ["I028"],
+          "accessory": ["I0JZ"],
+          "wings": ["I0JW"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "무도가",
+    "builds": [
+      {
+        "id": 16,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["tgxp"],
+          "armor": ["I0NJ"],
+          "headgear": ["I0NA"],
+          "accessory": ["I0OL"],
+          "wings": ["I0OK"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "검호",
+    "builds": [
+      {
+        "id": 17,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0MZ"],
+          "armor": ["I0OW"],
+          "headgear": ["I0NC"],
+          "accessory": ["I0NM"],
+          "wings": ["ram3"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "리퍼",
+    "builds": [
+      {
+        "id": 18,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0MZ"],
+          "armor": ["I0OW"],
+          "headgear": ["I0ON"],
+          "accessory": ["I0OL"],
+          "wings": ["ram3"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "슈터(민)",
+    "builds": [
+      {
+        "id": 19,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0N7"],
+          "armor": ["I0NI"],
+          "headgear": ["I0NG"],
+          "accessory": ["I0P5"],
+          "wings": ["I0AU"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "슈터(지)",
+    "builds": [
+      {
+        "id": 19,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0K0"],
+          "armor": ["I0OD"],
+          "headgear": ["mgtk"],
+          "accessory": ["I0JZ"],
+          "wings": ["I0JW"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "스나이퍼",
+    "builds": [
+      {
+        "id": 20,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0N5"],
+          "armor": ["I0OW"],
+          "headgear": ["I0NF"],
+          "accessory": ["I0P5"],
+          "wings": ["I0OB"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "소드 인챈터",
+    "builds": [
+      {
+        "id": 21,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0AM"],
+          "armor": ["I0OW"],
+          "headgear": ["I0NA"],
+          "accessory": ["I0OL"],
+          "wings": ["I0OK"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "검사",
+    "builds": [
+      {
+        "id": 22,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0MZ"],
+          "armor": ["I0OW"],
+          "headgear": ["I0NC"],
+          "accessory": ["I0P5"],
+          "wings": ["I0OB"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "썬더러",
+    "builds": [
+      {
+        "id": 23,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0AM"],
+          "armor": ["I0NJ"],
+          "headgear": ["I0NA"],
+          "accessory": ["I0NM"],
+          "wings": ["I0OK"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "트릭스터",
+    "builds": [
+      {
+        "id": 24,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0MZ"],
+          "armor": ["I0OW"],
+          "headgear": ["I0ON"],
+          "accessory": ["I0P5"],
+          "wings": ["ram3"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "연금술사",
+    "builds": [
+      {
+        "id": 25,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["srbd"],
+          "armor": ["I0OF"],
+          "headgear": ["I0NF"],
+          "accessory": ["I0P5"],
+          "wings": ["I0NO"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "마법사(마도)",
+    "builds": [
+      {
+        "id": 26,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["pspd", "srbd"],
+          "armor": ["I0OF"],
+          "headgear": ["I0OM"],
+          "accessory": ["I0PP"],
+          "wings": ["I0NO"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "블러드 위버",
+    "builds": [
+      {
+        "id": 27,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0OC"],
+          "armor": ["I0OF"],
+          "headgear": ["I0NG"],
+          "accessory": ["I0PP"],
+          "wings": ["I0OK"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "정령사",
+    "builds": [
+      {
+        "id": 28,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0M1"],
+          "armor": ["I0OG"],
+          "headgear": ["I028"],
+          "accessory": ["I0JZ"],
+          "wings": ["I0JW"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "마법사(불)",
+    "builds": [
+      {
+        "id": 29,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0JY"],
+          "armor": ["I0OF"],
+          "headgear": ["I0NF"],
+          "accessory": ["I0PP"],
+          "wings": ["I0OK"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "마법사(번개)",
+    "builds": [
+      {
+        "id": 30,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["pspd", "srbd"],
+          "armor": ["I0OF"],
+          "headgear": ["I0ON"],
+          "accessory": ["I0PP"],
+          "wings": ["ram3"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "프리스트",
+    "builds": [
+      {
+        "id": 31,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0NQ"],
+          "armor": ["I0OG"],
+          "headgear": ["I0IS", "I028"],
+          "accessory": ["I0NK"],
+          "wings": ["I0JW"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "무녀",
+    "builds": [
+      {
+        "id": 32,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0JY", "flag"],
+          "armor": ["I0OF"],
+          "headgear": ["I0NG"],
+          "accessory": ["I0PP"],
+          "wings": ["I0NO"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "소울위버",
+    "builds": [
+      {
+        "id": 33,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0N9"],
+          "armor": ["I0IP"],
+          "headgear": ["I0NE"],
+          "accessory": ["I0NL"],
+          "wings": ["I0JW"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "흑마법사",
+    "builds": [
+      {
+        "id": 34,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["srbd"],
+          "armor": ["I0OF"],
+          "headgear": ["I0NG"],
+          "accessory": ["I0P6"],
+          "wings": ["I0NO"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "마법사(물)",
+    "builds": [
+      {
+        "id": 35,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["flag", "pspd"],
+          "armor": ["I0OF"],
+          "headgear": ["I0NG"],
+          "accessory": ["I0PP"],
+          "wings": ["I0NO"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "마법사(바람)",
+    "builds": [
+      {
+        "id": 36,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["I0M1"],
+          "armor": ["I0OG"],
+          "headgear": ["I028"],
+          "accessory": ["I0JZ"],
+          "wings": ["I0JW"]
+        }
+      }
+    ]
+  },
+  {
+    "class": "위치",
+    "builds": [
+      {
+        "id": 37,
+        "name": "~ 아가레스 졸업",
+        "items": {
+          "weapon": ["srbd"],
+          "armor": ["I0OF"],
+          "headgear": ["I0NG"],
+          "accessory": ["I0P5"],
+          "wings": ["I0OK", "I0NO"]
+        }
+      }
+    ]
+  }
+]
